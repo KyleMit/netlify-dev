@@ -1,0 +1,12 @@
+{
+    "name": "@kylemit/netlify-dev",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "build": "node index.js",
+        "serve": "netlify dev"
+    },
+    "author": "KyleMit",
+    "license": "MIT"
+}
